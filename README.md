@@ -11,5 +11,13 @@ Machine learning meets software engineering
 | [Transformer: past and present]() | 11.25 | An overview of Transformer; Transformer-style pre-training models on code |
 | [GNN: learning graph representations]() | 12.23 | An overview of GNNs; GNN applications to code analysis |
 
-## Projects
 
+## Homework
+
+#### Hacking CNNs
+#### Using pretraining models to fix bugs
+#### GNN-based type inference or bug detection 
+
+## Projects
+#### Developing pretraining models
+#### Learning to search
